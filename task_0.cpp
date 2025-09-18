@@ -3,7 +3,8 @@
 using namespace std;
 
 int main() {
-    cout << "Hello, world!" << '\n';
-    cout << "Hello" << '\n';
+    cout << "hello, world!" << '\n';
+    cout << "hello" << '\n';
+    int func = 1;
     return 0;
 }
